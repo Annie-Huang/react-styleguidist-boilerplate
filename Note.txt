@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=JjXnmhNW8Cs&t=26s
+
+D:\react\react-styleguidist-boilerplate>yarn
+
+D:\react\react-styleguidist-boilerplate>yarn start
